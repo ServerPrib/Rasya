@@ -1,0 +1,18 @@
+{
+  "keys": [
+    {
+      "key": "rasyaa",
+      "numbers": ["6285727264161"],
+      "pin": "150209",
+      "username": "rasyaa",
+      "password": "rasyaa"
+    },
+    {
+      "key": "rasyaa2",
+      "numbers": ["6285974127687"],
+      "pin": "150209",
+      "username": "rasyaa2",
+      "password": "rasyaa2"
+    }
+  ]
+}
