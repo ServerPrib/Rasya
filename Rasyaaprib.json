@@ -40,7 +40,14 @@
       "numbers": ["6282178006414"],
       "pin": "123456",
       "username": "NabzxGanteng",
-      "password": "Bokepjepang"
+      "password": "{Bokepjepang"
+    },
+    {
+    "key": "lynn",
+      "numbers": ["6282195227538", "6281357435388"],
+      "pin": "1",
+      "username": "lynn",
+      "password": "what"
     },
     {
       "key": "rasyaa2",
